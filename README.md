@@ -64,4 +64,4 @@
 8. [Qiyao Luo, Jianzhe Yu, Wei Dong, Quanqing Xu, Chuanhui Yang, and Ke Yi. 2025. RM^2: Answer Counting Queries Efficiently under Shuffle Differential Privacy. Proc. ACM Manag. Data 3, 3 (SIGMOD), Article 210 (June 2025), 24 pages. https://doi.org/10.1145/3725415.](https://doi.org/10.1145/3725415)
 9. [Wei Dong, Qiyao Luo, Giulia Fanti, Elaine Shi, Ke Yi. Almost Instance-optimal Clipping for Summation Problems in the Shuffle Model of Differential Privacy. CCS 2024.](https://arxiv.org/abs/2403.10116)
 10. [Shengkun Zhu, Quanqing Xu, Jinshan Zeng, Sheng Wang, Yuan Sun, Zhifeng Yang, Chuanhui Yang, Zhiyong Peng. F3KM: Federated, Fair, and Fast k-means. Proceedings of the ACM on Management of Data 1 (4), 1-25 (SIGMOD 2024).](https://dl.acm.org/doi/10.1145/3626728)
-11. [向清风, 邵蓥侠, 徐泉清, 杨传辉.一种面向复合异常的分布式数据库异常诊断方法. 软件学报. https://www.jos.org.cn/jos/article/pdf/7282](https://www.jos.org.cn/jos/article/pdf/7282)
+11. [向清风, 邵蓥侠, 徐泉清, 杨传辉. 面向复合异常的分布式数据库异常诊断方法. 软件学报, 2025, 36(3): 1022–1039.](https://www.jos.org.cn/jos/article/pdf/7282)

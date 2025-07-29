@@ -13,7 +13,7 @@
 1. [Zixiang Yu, Guangyang Deng, Zhirong Shen, Qiangsheng Su, Ronglong Wu, Xiaoli Wang, Quanqing Xu, Chuanhui Yang, Zhifeng Bao. MetoHash: A Memory-Efficient and Traffic-Optimized Hashing Index on Hybrid PMem-DRAM Memories. Accepted in SC 2025. (Best Student Paper Nomination)]
 2. [Dong Pan, Xu Zhou, Lingwei Li, Quanqing Xu, Chuanhui Yang, Chenhao Ma, Kenli Li. Efficient Structural Clustering over Hypergraphs. In 2025 IEEE 41st International Conference on Data Engineering (ICDE), Hong Kong, 2025, pp. 3480-3493, doi: 10.1109/ICDE65448.2025.00260.](https://www.computer.org/csdl/proceedings-article/icde/2025/360300d480/26FZBLZdp1m)
 3. [Xinle Cao, Weiqi Feng, Jian Liu, Jinjin Zhou, Wenjing Fang, Lei Wang,Quanqing Xu, Chuanhui Yang, and Kui Ren. Towards Practical Oblivious Map. PVLDB, 18(3): 688 - 701, 2024.](https://dl.acm.org/doi/10.14778/3712221.3712235)
-4. [Jiahui Yang, Fulin Nan, Zhirong Shen, Zhisheng Chen, Yuhui Cai, Dmitrii Kaplun, Xiaoli Wang, Quanqing Xu, Chuanhui Yang, and Jiwu Shu. TPRepair: Tree-Based Pipelined Repair in Clustered Storage Systems. Accepted in ACM Transactions on Architecture and Code Optimization.](https://dl.acm.org/doi/10.1145/3705895)
+4. [Jiahui Yang, Fulin Nan, Zhirong Shen, Zhisheng Chen, Yuhui Cai, Dmitrii Kaplun, Xiaoli Wang, Quanqing Xu, Chuanhui Yang, and Jiwu Shu. TPRepair: Tree-Based Pipelined Repair in Clustered Storage Systems. ACM Transactions on Architecture and Code Optimization 22 (1), 1-25.](https://dl.acm.org/doi/10.1145/3705895)
 5. [Xiangyu Yao, Qiao Li, Kaihuan Lin, Xinbiao Gan, Jie Zhang, Congming Gao, Zhirong Shen, Quanqing Xu, Chuanhui Yang, Jason Xue. Extremely-Compressed SSDs with I/O Behavior Prediction. ACM Transactions on Storage, 20(4), pp.1-38.](https://dl.acm.org/doi/10.1145/3677044)
 ### Transaction Engine
 1. [Hongyao Zhao, Wei Lu, Zhanhao Zhao, Yinhao Hong, QuanqingXu, Jinliang Xiao, Fusheng Han, Chuanhui Yang, Xiaoyong Du. An Efficient Two-Round Distributed Transaction Processing Approach over Heterogeneous Networks. The VLDB Journal 34 (4), 1-25.](https://link.springer.com/article/10.1007/s00778-025-00929-5)
@@ -36,7 +36,7 @@
 5. [翁思扬, 俞融, 王清帅, 胡梓锐, 倪葎, 张蓉, 周烜, 周傲英, 徐泉清, 杨传辉, 刘维, 杨攀飞. HTAP评测基准的数据库性能评测能力分析. 软件学报. https://www.jos.org.cn/jos/article/abstract/7225](https://www.jos.org.cn/jos/article/abstract/7225)
 ### Data+AI
 1. [Shengkun Zhu, Feiteng Nie, Jinshan Zeng, Sheng Wang, Yuan Sun, Yuan Yao, Shangfeng Chen, Quanqing Xu, Chuanhui Yang. FedAPM: Federated Learning via ADMM with Partial Model Personalization. Accepted in KDD 2025.](https://arxiv.org/abs/2506.04672)
-2. [Chaofan Li, Jianlyu Chen, Yingxia Shao, Chaozhuo Li, Quanqing Xu, Defu Lian, Zheng Liu. IR Studio: A Self-Boosting Framework For Cross-Domain Retrieval. Accepted in ACL 2025.](https://aclanthology.org/2025.acl-long.1071/)
+2. [Chaofan Li, Jianlyu Chen, Yingxia Shao, Chaozhuo Li, Quanqing Xu, Defu Lian, Zheng Liu. IR Studio: A Self-Boosting Framework For Cross-Domain Retrieval. Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pp. 22061-22073, 2025.](https://aclanthology.org/2025.acl-long.1071/)
 3. [Yuxiang Wang, Xiao Yan, Shiyu Jin, Quanqing Xu, Chuang Hu, Yuanyuan Zhu, Bo Du, Jia Wu, Jiawei Jiang. Exploiting Text Semantics for Few and Zero Shot Node Classification on Text-attributed Graph. Accepted in IJCAI 2025.](https://arxiv.org/abs/2505.08168)
 4. [乔少杰，李洲，韩楠，徐泉清，吴涛，袁冠，吴信东．人工智能赋能关系型数据库优化技术：现状与展望[J/OL]．计算机学报,Vol. 48, No. 7, July 2025.](http://cjc.ict.ac.cn/online/onlinepaper/qsj-202571282733.pdf)
 5. [Qinbo Zhang, Xiao Yan, Yukai Ding, Fangcheng Fu, Chuang Hu, Quanqing Xu, Xu Chen, Jiawei Jiang. RAP: Random Projection is What You Need for Vertical Federated Learning. Accepted in DASFAA 2025.]
@@ -54,8 +54,8 @@
 17. [Chaoyu Chen, Hang Yu, Zhichao Lei, Jianguo Li, Shaokang Ren, Tingkai Zhang, Silin Hu, Jianchao Wang, Wenhui Shi. BALANCE: Bayesian Linear Attribution for Root Cause Localization. Proc. ACM Manag. Data1(1): 95:1-95:26 (2023).](https://dl.acm.org/doi/10.1145/3588949)
 18. [Rui Fu, Yuncheng Wu, Quanqing Xu, Meihui Zhang. FEAST: A Communication-efficient Federated Feature Selection Framework for Relational Data. Proc. ACM Manag. Data1(1): 107:1-107:28 (2023).](https://zmeihui.github.io/files/sigmod23_feast.pdf)
 ### Security and Privacy
-1. [Xuhang Zhu, Xiu Tang, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen. CoLA: Model Collaboration for Log-based Anomaly Detection. Accepted in VLDB 2025.]
-2. [Qingliu Wu, Qingfeng Xiang, Yingxia Shao, Qiyao Luo, Quanqing Xu. DBPecker: A Graph-Based Compound Anomaly Diagnosis System for Distributed RDBMSs. Accepted in VLDB 2025.]
+1. [Xuhang Zhu, Xiu Tang, Sai Wu, Jichen Li, Haobo Wang, Chang Yao, Quanqing Xu, Gang Chen. CoLA: Model Collaboration for Log-based Anomaly Detection. VLDB 2025, pp. 3979 - 3987.]
+2. [Qingliu Wu, Qingfeng Xiang, Yingxia Shao, Qiyao Luo, Quanqing Xu. DBPecker: A Graph-Based Compound Anomaly Diagnosis System for Distributed RDBMSs. VLDB 2025, pp. 5383 - 5386.]
 3. [Qingfeng Xiang, Yingxia Shao, Quanqing Xu, Chuanhui Yang. Distributed Database Diagnosis Method for Compound Anomalies. Int. J. Softw. Informatics 15(1): 115-137 (2025).]
 4. [Qinbo Zhang, Xiao Yan, Yanfeng Zhao, Fangcheng Fu, Quanqing Xu, Yukai Ding, Xiaokai Zhou, Chuang Hu, Jiawei Jiang. Model Rake: A Defense Against Stealing Attacks in Split Learning. Accepted in IJCAI 2025.]
 5. [Dongdong Xie, Pinghui Wang, Quanqing Xu, Chuanhui Yang, and Rundong Li. 2025. Efficient and Accurate Differentially Private Cardinality Continual Releases. Proc. ACM Manag. Data 3, 3 (SIGMOD), Article 151(June 2025), 27 pages. https://doi.org/10.1145/3725288.](https://doi.org/10.1145/3725288)
